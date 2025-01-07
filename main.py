@@ -12,4 +12,4 @@ with progress:
     
         progress.update(task, advance=10)
 
-        time.sleep(1)
+        time.sleep(2)
